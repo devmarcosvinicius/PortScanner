@@ -1,8 +1,8 @@
 # PortScanner
-Simple Port scanner
+A simple python port scanner 
 
 <h2>Requiriments installation:</h2>
-<h3>pip install -r requriments.txt</h3>
+pip install -r requriments.txt
 
 <h2>Usage:</h2>
-<h3>python3 PortScanner.py</h3>
+python3 PortScanner.py
