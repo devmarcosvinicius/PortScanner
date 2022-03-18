@@ -1,7 +1,8 @@
 # PortScanner
 Simple Port scanner
 
-usage:
+##Requiriments installation:
+###pip install -r requriments.txt
 
-run this command in the terminal:
-<h3>python3 PortScanner.py</h3>
+##Usage:
+###python3 PortScanner.py
